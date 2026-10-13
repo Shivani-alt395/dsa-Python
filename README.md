@@ -4,8 +4,8 @@ My Data Structures & Algorithms practice in Python, organized by problem-solving
 
 **Goal:** land an SDET/SDE internship at a product-based company by April 2027.
 
-- LeetCode: [your-username](https://leetcode.com/your-username)
-- LinkedIn: [your-name](https://linkedin.com/in/your-profile)
+- LeetCode: https://leetcode.com/u/shivaniv1402/
+- LinkedIn: https://www.linkedin.com/in/kumari-shivani-verma-/?isSelfProfile=true
 
 ## Progress
 

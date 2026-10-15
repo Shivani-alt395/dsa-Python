@@ -6,12 +6,13 @@ My Data Structures & Algorithms practice in Python, organized by problem-solving
 
 - LeetCode: https://leetcode.com/u/shivaniv1402/
 - LinkedIn: https://www.linkedin.com/in/kumari-shivani-verma-/?isSelfProfile=true
+- NeetCode: https://neetcode.io/user/StormGotham264/edit
 
 ## Progress
 
 | Topic | Solved | Easy | Medium | Hard |
 |---|---|---|---|---|
-| Arrays & Hashing | 0 | 0 | 0 | 0 |
+| Arrays & Hashing | 1 | 0 | 0 | 0 |
 | Two Pointers | 0 | 0 | 0 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | Stack | 0 | 0 | 0 | 0 |
@@ -24,7 +25,7 @@ My Data Structures & Algorithms practice in Python, organized by problem-solving
 | Backtracking | 0 | 0 | 0 | 0 |
 | **Total** | **0** | **0** | **0** | **0** |
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2026-10-15_
 
 ## Repo structure
 
